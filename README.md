@@ -1,5 +1,5 @@
 # Triplet-based Person Re-Identification
-
+#只是进行了注释，删去了原始代码版本中的一些文件，若要实现整个程序，请参考原始代码版本
 Code for reproducing the results of our [In Defense of the Triplet Loss for Person Re-Identification](https://arxiv.org/abs/1703.07737) paper.
 
 We provide the following things:我们提供以下内容：
